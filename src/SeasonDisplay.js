@@ -8,7 +8,7 @@ const seasonConfig = {
     },
 
     winter: {
-        text: "It is freezing mate!!!!",
+        text: "It is freezing cold!!!!",
         iconName: 'snowflake'
     }
 
