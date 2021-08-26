@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/djonathanpaul/React-SeasonDisplay/static/css/main.fb08040a.chunk.css",
+    "main.js": "/djonathanpaul/React-SeasonDisplay/static/js/main.d6499118.chunk.js",
+    "main.js.map": "/djonathanpaul/React-SeasonDisplay/static/js/main.d6499118.chunk.js.map",
+    "runtime-main.js": "/djonathanpaul/React-SeasonDisplay/static/js/runtime-main.86e84ea6.js",
+    "runtime-main.js.map": "/djonathanpaul/React-SeasonDisplay/static/js/runtime-main.86e84ea6.js.map",
+    "static/css/2.bb1342eb.chunk.css": "/djonathanpaul/React-SeasonDisplay/static/css/2.bb1342eb.chunk.css",
+    "static/js/2.bc70a69d.chunk.js": "/djonathanpaul/React-SeasonDisplay/static/js/2.bc70a69d.chunk.js",
+    "static/js/2.bc70a69d.chunk.js.map": "/djonathanpaul/React-SeasonDisplay/static/js/2.bc70a69d.chunk.js.map",
+    "index.html": "/djonathanpaul/React-SeasonDisplay/index.html",
+    "static/css/2.bb1342eb.chunk.css.map": "/djonathanpaul/React-SeasonDisplay/static/css/2.bb1342eb.chunk.css.map",
+    "static/css/main.fb08040a.chunk.css.map": "/djonathanpaul/React-SeasonDisplay/static/css/main.fb08040a.chunk.css.map",
+    "static/js/2.bc70a69d.chunk.js.LICENSE.txt": "/djonathanpaul/React-SeasonDisplay/static/js/2.bc70a69d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/djonathanpaul/React-SeasonDisplay/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86e84ea6.js",
+    "static/css/2.bb1342eb.chunk.css",
+    "static/js/2.bc70a69d.chunk.js",
+    "static/css/main.fb08040a.chunk.css",
+    "static/js/main.d6499118.chunk.js"
+  ]
+}
